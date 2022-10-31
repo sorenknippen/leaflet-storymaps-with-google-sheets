@@ -55,7 +55,6 @@ body {
   visibility: hidden;
   font-weight: normal;
   text-align: center;
-  font-size: 100;
 }
 
 .chapter-container {
@@ -115,8 +114,8 @@ a.source:visited {
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
-  padding: 20px;
+  font-size: 14pt;
+  padding: 15px;
   font-family: "Georgia", serif;
 }
 
