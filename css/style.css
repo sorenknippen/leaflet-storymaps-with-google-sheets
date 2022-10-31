@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: normal;
   text-align: center;
+  font-size: 100;
 }
 
 .chapter-container {
