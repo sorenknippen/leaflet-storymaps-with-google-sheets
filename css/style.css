@@ -9,7 +9,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid blue;
   top: 0;
   left: 0;
 }
@@ -167,11 +167,11 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
-  font-size: 1em;
+  font-size: 3em;
 }
 
 h2 {
   margin: 0;
-  font-size: 0.5em;
+  font-size: 2em;
   font-weight: normal;
 }
