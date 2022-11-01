@@ -1,6 +1,6 @@
 body {
   padding: 0px;
-  margin: 0px;
+  margin: 10px;
   font-family: "Helvetica", sans-serif;
   overflow: hidden;
 }
@@ -10,7 +10,7 @@ body {
   width: 100vw;
   position: absolute;
   border-bottom: 3px solid blue;
-  top: 0;
+  top: 0;d
   left: 0;
 }
 
@@ -159,7 +159,7 @@ a.source:visited {
 }
 
 #header {
-  padding: 5px 0;
+  padding: 20px 0;
   text-align: center;
   color: #333;
 }
